@@ -1,2 +1,5 @@
 Content in the file.
 Save frequently and add note to the change to keep track of it
+git status -sb
+?? untracted file
+red M change to tracked file
